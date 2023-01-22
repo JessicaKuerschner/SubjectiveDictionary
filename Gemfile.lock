@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    google-protobuf (3.21.12)
+    jekyll-sass-converter (3.0.0)
+      sass-embedded (~> 1.54)
+    sass-embedded (1.57.1-x64-mingw-ucrt)
+      google-protobuf (~> 3.21)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  jekyll-sass-converter
+
+BUNDLED WITH
+   2.4.5
